@@ -1,0 +1,14 @@
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\Mike-PC\source\repos\WordCount\WordCount\obj\Debug\WordCount.pdb
+B:\game\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+B:\game\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+B:\game\WordCount\WordCount\obj\Debug\WordCount.exe
+B:\game\WordCount\WordCount\obj\Debug\WordCount.pdb
+B:\game\WordCount\WordCount\bin\Debug\WordCount.exe.config
+B:\game\WordCount\WordCount\bin\Debug\WordCount.exe
+B:\game\WordCount\WordCount\bin\Debug\WordCount.pdb
